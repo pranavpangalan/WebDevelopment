@@ -1,0 +1,16 @@
+<script>
+let - keyword . when you know data will update use list
+let username='John'
+let city="Mumbai" 'Mumbai'
+city="Delhi"
+city = "Bangalore"
+
+console.log(username)
+console.log(city)
+
+
+you cannot create two variables with the same variables name name(check) then javascript gets confused.//
+
+it will not reassign the values 
+
+</script>
