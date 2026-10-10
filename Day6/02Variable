@@ -11,6 +11,6 @@ console.log(city)
 
 you cannot create two variables with the same variables name name(check) then javascript gets confused.//
 
-it will not reassign the values 
+it will not reassign the values,
 
 </script>
